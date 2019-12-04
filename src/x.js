@@ -1,5 +1,5 @@
 import './x.css'
 import './y.scss'
 import './z.styl'
-import './w.less'
+
 export default 'xxx'

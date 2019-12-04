@@ -8,7 +8,7 @@ module.exports = {
         filename: '[name].[contenthash].js'
     },
     plugins: [new HtmlWebpackPlugin({
-        title: '高正的网页',
+        title: '卡里的webpack-demo-1',
         template: 'src/assets/index.html'
     })],
     module: {

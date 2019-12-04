@@ -1,11 +1,11 @@
 import x from './x.js'
 console.log(x);
 import jpg from './assets/ac.jpg'
-console.log(png); //这是一个路径
+console.log(jpg); //这是一个路径
 
 const app = document.getElementById('app')
 app.innerHTML = `
-  <img src="${png}">
+  <img src="${jpg}">
 `
 
 const button = document.createElement('button')
