@@ -1,3 +1,5 @@
 import './x.css'
-import './y.css'
-export default 'haha'
+import './y.scss'
+import './z.styl'
+import './w.less'
+export default 'xxx'

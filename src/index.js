@@ -1,9 +1,10 @@
 import x from './x.js'
+console.log(x);
 import jpg from './assets/ac.jpg'
 console.log(png); //这是一个路径
 
 const app = document.getElementById('app')
-div.innerHTML = `
+app.innerHTML = `
   <img src="${png}">
 `
 
