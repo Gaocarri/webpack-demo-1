@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{8:function(n,e,o){"use strict";function t(){console.log("我是懒加载");let n=document.createElement("div");n.innerHTML="<h1>我是懒加载</h1>",document.body.appendChild(n)}o.r(e),o.d(e,"default",(function(){return t}))}}]);
